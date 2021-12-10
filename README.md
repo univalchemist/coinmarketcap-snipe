@@ -12,11 +12,6 @@ Run on Android you need Install [Termux](https://termux.com)
 pkg install python git
 ```
 
-Clone Repo:  
-```shell
-git clone https://github.com/Trading-Tiger/Coingecko-BSC-Sniper-bot
-cd Coingecko-BSC-Sniper-bot
-```
 Install Requirements:  
 ```python
 python -m pip install -r requirements.txt
