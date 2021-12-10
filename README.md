@@ -1,12 +1,6 @@
-# Coingecko-BSC-Sniper-bot
-![TradingTigers](https://trading-tigers.com/assets/img/TradingTigers.png)  
+# Coinmarketcap-BSC-Sniper-bot
 
-Trading-Tigers presents the open source Coingecko Sniper bot, it buys any BSC token that has been newly listed on Coingecko and checks their TakeProfit/StopLoss percentage and sells it at your conditions.
-
-## Please support us by buying TIGS token!
-<a href="https://t.me/TradingTigersChat">
-<img src="https://www.latestcarernews.com/wp-content/uploads/2019/08/Telegram.bk.png" width="300" >  
-</a>
+It presents the open source CoinMarketCap Sniper bot, it buys any BSC token that has been newly listed on CoinMarketCap and checks their TakeProfit/StopLoss percentage and sells it at your conditions.
 
 # Infos
 You pay 1% fees on each transaction.
