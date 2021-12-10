@@ -1,0 +1,22 @@
+{   
+    
+    "ChainName": "BSC",
+    "Address": "",
+    "SecretKey": "",
+    "BscScanKey": "",
+    "BscBaseUrl": "https://api.bscscan.com/",
+
+    "GasPrice": 6,
+    "RPC": "https://bsc-dataseed.binance.org/",
+    "maxFeePerGas": 250,
+    "maxPriorityFeePerGas": 2,
+
+    "MaximumTokenTAX": 15,
+
+    "Currency": "BNB",
+    "AmountPerBuy": 0.02,
+
+    "TakeProfit": 40,
+    "StopLost": 20,
+    "TrailingStopLoss": 15
+}
